@@ -32,7 +32,7 @@ The dataset consists of product reviews, including the following fields:
 - Tokenization of text data.
 - Removal of stop words and punctuation.
 - Lemmatization to reduce words to their base form.
-- 
+  
 **Sentiment Analysis:**
 - Using nltk's VADER lexicon to classify the sentiment as positive, neutral, or negative.
 - Explore sentiment distribution using various visualizations.
