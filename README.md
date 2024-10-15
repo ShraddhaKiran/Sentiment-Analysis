@@ -10,10 +10,10 @@ This project aims to perform Sentiment Analysis on product reviews to identify a
 - **Visualization**: Insights are visualized using matplotlib and seaborn to display trends and patterns in the data.
 
 # Key Libraries Used
-**pandas**: Data manipulation and handling.
-**numpy**: Numerical operations.
-**matplotlib & seaborn**: Data visualization.
-**nltk**: Natural Language Processing toolkit for text analysis and sentiment scoring.
+- **pandas**: Data manipulation and handling.
+- **numpy**: Numerical operations.
+- **matplotlib & seaborn**: Data visualization.
+- **nltk**: Natural Language Processing toolkit for text analysis and sentiment scoring.
 
 # Dataset
 The dataset consists of product reviews, including the following fields:
