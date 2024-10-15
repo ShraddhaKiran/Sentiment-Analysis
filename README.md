@@ -18,12 +18,12 @@ This project aims to perform Sentiment Analysis on product reviews to identify a
 # Dataset
 The dataset consists of product reviews, including the following fields:
 
-**ProductId**: Unique identifier for the product.
-**UserId**: Unique identifier for the user.
-**ProfileName**: Name of the reviewer.
-**Score**: Rating given by the user.
-**Summary**: Short description of the review.
-**Text**: Full review text.
+- **ProductId**: Unique identifier for the product.
+- **UserId**: Unique identifier for the user.
+- **ProfileName**: Name of the reviewer.
+- **Score**: Rating given by the user.
+- **Summary**: Short description of the review.
+- **Text**: Full review text.
 
 
 # Steps
